@@ -3,4 +3,4 @@ This is the landing page of 'mCash: Daily Rewards' which is a mobile application
 The page gives the information about the app and it's different features.
 
 
-LIVE DEMO: https://639c8b06bdec7a2706885971--helpful-mermaid-eb80d8.netlify.app/
+LIVE DEMO: https://mcash-reward-eb80d8.netlify.app/
